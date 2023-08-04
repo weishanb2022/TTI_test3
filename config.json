@@ -21,16 +21,8 @@
       "mainBackgroundColor": "#d07d0e"
     }
   },
-  "portalUrl": "www.arcgis.com",
-  "httpProxy": {
-		"useProxy": true,
-		"url": "http://gallery.chn.esri.com/arcgis/sharing/proxy",
-		"alwaysUseProxy": True,
-		"rules": [{
-			"urlPrefix": "http://route.arcgis.com/",
-			"proxyUrl": "resource-proxy-1.0/DotNet/proxy.ashx"
-		}]
-	},
+  "portalUrl": "https://tamu.maps.arcgis.com",
+ 
   "appId": "TtV9Yvk8y8AVL93s",
   "authorizedCrossOriginDomains": [],
   "title": "0601_Mapilary_test1",
